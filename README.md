@@ -8,13 +8,15 @@
 [![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_CSS-v4.0-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![GSAP](https://img.shields.io/badge/GSAP-3.15.0-88ce02?style=for-the-badge&logo=greensock&logoColor=white)](https://greensock.com/)
 [![Lenis Smooth Scroll](https://img.shields.io/badge/Lenis-Smooth_Scroll-00d4aa?style=for-the-badge)](https://lenis.darkroom.engineering/)
-[![Vercel Ready](https://img.shields.io/badge/Deploy-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-moana--pi.vercel.app-00d4aa?style=for-the-badge&logo=vercel&logoColor=white)](https://moana-pi.vercel.app/)
 
 <p align="center">
   <b>Step into a living Polynesian odyssey. Journey across 60 million square miles of uncharted Pacific waters, master ancient non-instrument wayfinding, and restore the glowing spiral Heart of Te Fiti.</b>
 </p>
 
-[Explore The Live Demo](#getting-started) • [Feature Highlights](#-key-features--3d-interactions) • [Scene Walkthrough](#-the-six-storytelling-scenes) • [Vercel Deployment](#-deployment-on-vercel)
+### 🔗 Live Demo: [https://moana-pi.vercel.app/](https://moana-pi.vercel.app/)
+
+[🌐 Launch Live Experience](https://moana-pi.vercel.app/) • [Feature Highlights](#-key-features--3d-interactions) • [Scene Walkthrough](#-the-six-storytelling-scenes) • [Vercel Deployment](#-deployment-on-vercel)
 
 ---
 
@@ -170,7 +172,11 @@ npm run build
 
 ## ☁️ Deployment on Vercel
 
-This repository is optimized for one-click deployment on **Vercel**:
+The application is deployed and live at:
+
+> 🌊 **Production URL:** [https://moana-pi.vercel.app/](https://moana-pi.vercel.app/)
+
+This repository is optimized for continuous deployment on **Vercel**:
 
 ### Option 1: Via Vercel CLI
 ```bash

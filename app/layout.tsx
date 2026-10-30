@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     title: "MOANA | The Ocean Is Calling",
     description:
       "A cinematic interactive storytelling experience across the vast Pacific ocean. Step into ancient voyaging lore, island landscapes, and the myth of Te Fiti.",
-    url: "https://moana-cinematic.vercel.app",
+    url: "https://moana-pi.vercel.app",
     siteName: "MOANA Cinematic Experience",
     locale: "en_US",
     type: "website",
