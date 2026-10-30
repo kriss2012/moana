@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { Anchor, Skull, Shield, Sparkles, Navigation, Waves, Sword, Wind } from 'lucide-react';
+import { Anchor, Skull, Shield, Sparkles, Navigation, Waves, Wind } from 'lucide-react';
 
 const VOYAGE_MILESTONES = [
   {
@@ -249,4 +249,3 @@ export default function SceneGreatVoyage() {
     </section>
   );
 }
-
