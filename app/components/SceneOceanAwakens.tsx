@@ -1,11 +1,10 @@
 'use client';
 
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useRef } from 'react';
 import { Waves, Sparkles, Droplets, Shell, Compass } from 'lucide-react';
 
 export default function SceneOceanAwakens() {
   const canvasRef = useRef<HTMLCanvasElement>(null);
-  const [mousePos, setMousePos] = useState({ x: 0, y: 0 });
 
   // Interactive wave / ripple effect on canvas
   useEffect(() => {
@@ -182,4 +181,3 @@ export default function SceneOceanAwakens() {
     </section>
   );
 }
-
