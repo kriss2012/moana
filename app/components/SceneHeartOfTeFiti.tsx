@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { Sparkles, Flame, Heart, RefreshCw, Sun, Trees, ShieldAlert } from 'lucide-react';
+import { Sparkles, Flame, Heart, Sun, Trees, ShieldAlert } from 'lucide-react';
 
 export default function SceneHeartOfTeFiti() {
   const [isRestored, setIsRestored] = useState(true);
@@ -225,4 +225,3 @@ export default function SceneHeartOfTeFiti() {
     </section>
   );
 }
-
