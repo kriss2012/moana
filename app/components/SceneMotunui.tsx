@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { Mountain, Trees, ShieldAlert, Sparkles, MapPin, Eye, Compass } from 'lucide-react';
+import { Mountain, Trees, ShieldAlert, MapPin, Compass } from 'lucide-react';
 
 const ISLAND_HOTSPOTS = [
   {
@@ -182,4 +182,3 @@ export default function SceneMotunui() {
     </section>
   );
 }
-
